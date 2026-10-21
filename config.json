@@ -1,0 +1,17 @@
+{
+  "architectures": [
+    "YpruForCausalLM"
+  ],
+  "model_type": "ypru",
+  "d_model": 512,
+  "num_layers": 8,
+  "num_heads": 8,
+  "head_dim": 64,
+  "vocab_size": 50000,
+  "max_position_embeddings": 32768,
+  "hidden_act": "silu",
+  "attention_type": "recurrent_expanding_linear",
+  "memory_complexity": "O(1)",
+  "torch_dtype": "float32",
+  "transformers_version": "4.44.0"
+}

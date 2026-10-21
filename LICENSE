@@ -1,0 +1,19 @@
+YPRU COMMUNITY & COMMERCIAL DUAL LICENSE
+Version 1.0 - October 2026
+
+1. NON-COMMERCIAL & RESEARCH GRANT
+Subject to the terms of this License, Licensor grants you a non-exclusive, worldwide, 
+royalty-free license to use, reproduce, and evaluate the Ypru Model Weights ("model.safetensors") 
+and inference definitions solely for academic research, personal experimentation, and non-commercial educational purposes.
+
+2. COMMERCIAL RESTRICTIONS
+You may not monetize, serve, integrate into revenue-generating applications, or deploy 
+the Model Weights in enterprise production environments without first obtaining a separate Commercial License from Licensor.
+
+3. INTELLECTUAL PROPERTY & TRAINING PIPELINE PROTECTION
+The training algorithms, optimization mathematics (including Muon Newton-Schulz spectral schedules), 
+curriculum mixture heuristics, and data processing pipelines utilized to train this Model 
+are proprietary trade secrets and are not licensed or disclosed hereunder.
+
+4. COMMERCIAL INQUIRIES
+For enterprise commercial licensing inquiries, please contact: commercial@ypru.ai
