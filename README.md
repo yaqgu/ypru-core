@@ -87,3 +87,13 @@ with torch.no_grad():
   howpublished={\url{https://huggingface.co/yaqgu/ypru-100m}}
 }
 ```
+
+---
+
+## 📚 Acknowledgements & References
+
+The Ypru foundation architecture builds upon and extends theoretical foundations in linear-time sequence modeling and neural memory:
+* **Expanding Linear Attention**: *Expanding Attention: A Taylor-Series Route to Linear-Time Transformers* (arXiv:2610.20637).
+* **Dynamic Memory Gating**: Architectural inspiration from test-time associative memory and surprise-based gating mechanisms (Google Research).
+* **Matrix Spectral Optimization**: Keller Jordan et al. (Muon optimizer for non-Euclidean representation learning).
+
