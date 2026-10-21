@@ -53,7 +53,7 @@ from transformers import AutoModelForCausalLM
 import tiktoken
 
 # Load model from Hugging Face
-model = AutoModelForCausalLM.from_pretrained("yagnesh3coding/ypru-100m", trust_remote_code=True)
+model = AutoModelForCausalLM.from_pretrained("yaqgu/ypru-100m", trust_remote_code=True)
 model.eval()
 
 tokenizer = tiktoken.get_encoding("cl100k_base")
@@ -81,9 +81,9 @@ with torch.no_grad():
 ```bibtex
 @misc{ypru2026sovereign,
   title={Ypru: High-Efficiency Linear Recurrent Foundation Model with O(1) Memory},
-  author={Yagnesh},
+  author={Yaqgu},
   year={2026},
   publisher={Hugging Face},
-  howpublished={\url{https://huggingface.co/yagnesh3coding/ypru-100m}}
+  howpublished={\url{https://huggingface.co/yaqgu/ypru-100m}}
 }
 ```
