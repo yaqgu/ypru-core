@@ -72,7 +72,7 @@ with torch.no_grad():
 ## 📜 Sovereign Community License
 
 * **Academic, Evaluation & Personal Research**: 100% Free and open access.
-* **Commercial Enterprise Production**: Requires an enterprise commercial license. Contact: `commercial@ypru.ai`.
+* **Commercial Enterprise Production**: Requires an enterprise commercial license. Contact: `commercial@yaqgu.com`.
 
 ---
 
