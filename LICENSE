@@ -1,6 +1,6 @@
-APACHE LICENSE, VERSION 2.0 (WITH YPRU ATTRIBUTION NOTICE)
+APACHE LICENSE, VERSION 2.0 (WITH YPRU OPEN COMMERCIAL & ATTRIBUTION GRANT)
 
-Copyright 2026 Yaqgu Technologies
+Copyright 2026 Yaqgu Technologies (https://yaqgu.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -15,21 +15,26 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ================================================================================
-COMMERCIAL USE & ATTRIBUTION GRANT
+YPRU OPEN COMMERCIAL GRANT & ATTRIBUTION CONDITIONS
 ================================================================================
 
-1. PERMISSIVE COMMERCIAL USE:
-   You are free to use, modify, distribute, host, serve, and monetize this Model 
-   and its derivative works for ANY commercial purpose, regardless of your company size, 
-   funding, or revenue volume, completely royalty-free and without upfront fees.
+1. PERMISSIVE COMMERCIAL USE (ZERO ROYALTIES, UNLIMITED REVENUE):
+   You are granted full, royalty-free commercial rights to deploy, serve, monetize, 
+   integrate, fine-tune, and build products/services upon the Ypru Model Weights 
+   and architecture. There are no revenue caps, no recurring fees, and no upfront costs.
 
-2. ATTRIBUTION (REQUESTED):
-   If you integrate this Model into commercial applications, services, or research, 
-   we kindly request (or require where applicable by Apache 2.0) including the following attribution:
+2. MANDATORY ATTRIBUTION:
+   Any public deployment, SaaS interface, commercial application, derivative fine-tune, 
+   or redistributed release incorporating this Model MUST provide prominent attribution:
    
-   "Powered by Ypru Foundation Architecture by Yaqgu (https://yaqgu.com)"
+   "Based on the Ypru Foundation Architecture developed by Yaqgu (https://yaqgu.com)"
 
-3. INTELLECTUAL PROPERTY & PROPRIETARY TRAINING FORTRESS:
+3. NO STANDALONE WEIGHT RESALE:
+   You may monetize applications, APIs, fine-tunes, and services that utilize this Model. 
+   However, you may not repackage, rebrand, and sell the raw unmodified base weights file 
+   ("model.safetensors") as a standalone paid binary without substantial technical modifications.
+
+4. INTELLECTUAL PROPERTY & PROPRIETARY TRAINING FORTRESS:
    While the published model weights and inference runtime definitions are open and commercially 
    free under Apache 2.0, the proprietary spectral optimization heuristics (Muon Newton-Schulz 
    hyper-schedules), continuous data curriculum mixture streaming code, and offline latent 
