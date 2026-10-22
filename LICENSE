@@ -1,19 +1,36 @@
-YPRU COMMUNITY & COMMERCIAL DUAL LICENSE
-Version 1.0 - October 2026
+APACHE LICENSE, VERSION 2.0 (WITH YPRU ATTRIBUTION NOTICE)
 
-1. NON-COMMERCIAL & RESEARCH GRANT
-Subject to the terms of this License, Licensor grants you a non-exclusive, worldwide, 
-royalty-free license to use, reproduce, and evaluate the Ypru Model Weights ("model.safetensors") 
-and inference definitions solely for academic research, personal experimentation, and non-commercial educational purposes.
+Copyright 2026 Yaqgu Technologies
 
-2. COMMERCIAL RESTRICTIONS
-You may not monetize, serve, integrate into revenue-generating applications, or deploy 
-the Model Weights in enterprise production environments without first obtaining a separate Commercial License from Licensor.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-3. INTELLECTUAL PROPERTY & TRAINING PIPELINE PROTECTION
-The training algorithms, optimization mathematics (including Muon Newton-Schulz spectral schedules), 
-curriculum mixture heuristics, and data processing pipelines utilized to train this Model 
-are proprietary trade secrets and are not licensed or disclosed hereunder.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-4. COMMERCIAL INQUIRIES
-For enterprise commercial licensing inquiries, please contact: commercial@yaqgu.com
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+================================================================================
+COMMERCIAL USE & ATTRIBUTION GRANT
+================================================================================
+
+1. PERMISSIVE COMMERCIAL USE:
+   You are free to use, modify, distribute, host, serve, and monetize this Model 
+   and its derivative works for ANY commercial purpose, regardless of your company size, 
+   funding, or revenue volume, completely royalty-free and without upfront fees.
+
+2. ATTRIBUTION (REQUESTED):
+   If you integrate this Model into commercial applications, services, or research, 
+   we kindly request (or require where applicable by Apache 2.0) including the following attribution:
+   
+   "Powered by Ypru Foundation Architecture by Yaqgu (https://yaqgu.com)"
+
+3. INTELLECTUAL PROPERTY & PROPRIETARY TRAINING FORTRESS:
+   While the published model weights and inference runtime definitions are open and commercially 
+   free under Apache 2.0, the proprietary spectral optimization heuristics (Muon Newton-Schulz 
+   hyper-schedules), continuous data curriculum mixture streaming code, and offline latent 
+   distillation pipelines remain internal trade secrets of Yaqgu Technologies.

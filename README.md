@@ -1,15 +1,14 @@
 ---
 language:
 - en
-license: other
-license_name: ypru-community-license
-license_link: LICENSE
+license: apache-2.0
 tags:
 - foundation-model
 - linear-attention
 - infinite-context
 - sovereign-ai
 - text-generation
+- permissive-commercial
 pipeline_tag: text-generation
 ---
 
@@ -69,10 +68,11 @@ with torch.no_grad():
 
 ---
 
-## 📜 Sovereign Community License
+## 📜 Open Commercial License (Apache 2.0)
 
-* **Academic, Evaluation & Personal Research**: 100% Free and open access.
-* **Commercial Enterprise Production**: Requires an enterprise commercial license. Contact: `commercial@yaqgu.com`.
+* **100% Free & Permissive Commercial Use**: You are free to use, deploy, monetize, host, and embed `ypru-100m` in commercial products or services with zero revenue limits and zero royalties.
+* **Attribution**: Just include a simple attribution notice: *"Powered by Ypru Foundation Architecture by Yaqgu (https://yaqgu.com)"*.
+* **Academic & Open Science**: Unrestricted research, reproduction, and fine-tuning.
 
 ---
 
